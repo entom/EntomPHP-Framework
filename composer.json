@@ -8,5 +8,15 @@
       "email": "tomasznicieja@gmail.com"
     }
   ],
-  "require": {}
+  "require": {
+    "symfony/http-foundation": "^3.2",
+    "symfony/routing": "^3.2",
+    "phpunit/phpunit": "^5.7",
+    "symfony/http-kernel": "^3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
 }
