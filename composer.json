@@ -1,0 +1,12 @@
+{
+  "name": "tomasznicieja/entom-php-framework",
+  "description": "Vendors for My PHP Framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomasz Nicieja",
+      "email": "tomasznicieja@gmail.com"
+    }
+  ],
+  "require": {}
+}
